@@ -1,0 +1,19 @@
+#white{
+    background-color:white;
+}
+#img-size{
+width:40%;
+margin-top:-15px;
+}
+
+#margin30{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#width30{
+    width: 10px;}
+
+     .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+        background-color: skyblue;
+        color:black;
+    } 
